@@ -1,0 +1,2 @@
+class FakeTime < ApplicationRecord
+end
